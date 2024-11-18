@@ -1,0 +1,10 @@
+git status (check status of repo)
+git add . (add all changes)
+git commit -m "any message" (add message)
+git push (changes added to the main/default branch of your repo)
+
+terminal commands :-
+ mkdir <directory name> (create new folder)
+ touch <file name> (creates a file in that directory)
+ cd <directory name> (moves to that directory)
+ cd .. (moves one directory above)
